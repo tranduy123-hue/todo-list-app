@@ -15,5 +15,5 @@ python app.py
 ```
 
 ## Tác giả
-- **Sinh viên:** Trần Duy
+- **Sinh viên:** Trần Đức Duy
 - **GitHub:** [tranduy123-hue](https://github.com/tranduy123-hue)
